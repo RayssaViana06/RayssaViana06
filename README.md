@@ -51,7 +51,7 @@
 
  
 - [Pagina WEB desenvolvida para uma psicologa
-]((https://github.com/RayssaViana06/GiseleColares))
+](https://github.com/RayssaViana06/GiseleColares)
 
-- [Aplicação Web para finanças pessoais 
-]((https://github.com/RayssaViana06/FinUP))
+- [Aplicação Web para finanças pessoais
+](https://github.com/RayssaViana06/FinUP)
