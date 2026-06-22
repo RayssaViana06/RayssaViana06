@@ -54,8 +54,8 @@
 - [Aplicação Web para finanças pessoais
 ](https://github.com/RayssaViana06/FinUP)
 
-- [Aplicação Mobile para idosos e seus cuidadores
-](https://github.com/RayssaViana06/Cuida-bem)
+- [Aplicação de Arquitetura Distribuida Para Psicologos e Pacientes 
+](https://github.com/RayssaViana06/VibeCheck)
 
 
 
